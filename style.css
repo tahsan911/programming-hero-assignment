@@ -3,12 +3,11 @@
 
 /* common css start */
 body {
-  background-color: #e5e5e5;
+  background-color: #ffffff;
   font-family: "Poppins", sans-serif;
 }
 section {
-  display: flex;
-  height: 680px;
+  height: 580px;
 }
 .half-width {
   width: 40%;
@@ -36,6 +35,9 @@ span {
 }
 
 /* header part css start here */
+.top-bar {
+  display: flex;
+}
 .h1-div {
   font-family: "Yeseva One", cursive;
   border-left: 4px solid red;
@@ -57,6 +59,29 @@ small {
 h2 {
   text-align: center;
   font-size: 40px;
-  margin: 0 auto;
+  margin: 80px auto;
+}
+.second-bar {
+  display: flex;
+}
+.one-third-image {
+  width: 40%;
+  padding-left: 100px;
+}
+.card {
+  height: 350px;
+  width: 400px;
+  margin: 20px;
+  padding: 30px;
+  border-radius: 20px;
+}
+#first-card-color {
+  background-color: #ecf4f5;
+}
+#second-card-color {
+  background-color: #efe0e0;
+}
+#third-card-color {
+  background-color: #f0e6ca;
 }
 /* second part css end here */
