@@ -125,7 +125,22 @@ h1 {
   background-position: center;
 }
 /* forth part css end here */
-
+.about-section {
+  background-color: rgb(238, 235, 235);
+  height: 180px;
+  margin: 0;
+  padding: 0;
+}
+.about-me {
+  text-align: center;
+}
+strong {
+  font-size: 40px;
+  color: #333;
+}
+.about-me span {
+  color: rgb(199, 83, 16);
+}
 /* footer start  */
 footer .footer-area {
   background: #0b0d17;
