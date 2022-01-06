@@ -125,6 +125,8 @@ h1 {
   background-position: center;
 }
 /* forth part css end here */
+
+/* fifth-end start  */
 .about-section {
   background-color: rgb(238, 235, 235);
   height: 180px;
@@ -141,6 +143,8 @@ strong {
 .about-me span {
   color: rgb(199, 83, 16);
 }
+/* fifth-bar end  */
+
 /* footer start  */
 footer .footer-area {
   background: #0b0d17;
